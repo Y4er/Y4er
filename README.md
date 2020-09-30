@@ -3,10 +3,6 @@
 - 半吊子代码审计
 - 无聊就复现分析CVE
 
-Blog: [Y4er.com](https://Y4er.com)  
+Blog: [Y4er.com](http://Y4er.com)  
 Team: [ChaBug](http://www.chabug.org)  
-Twitter: [@Y4er](https://twitter.com/Y4er_ChaBug)
-
-### Github stats
-
-![Y4er's github stats](https://github-readme-stats.vercel.app/api?username=Y4er&count_private=true&show_icons=true)
+Twitter: [@Y4er_ChaBug](https://twitter.com/Y4er_ChaBug)
